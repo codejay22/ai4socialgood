@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "name": "Alex Rivera",
+    "title": "Aspiring Software Engineer",
+    "bio": "Building web apps and exploring AI tools."
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Weather Dashboard",
+      "description": "A lightweight JavaScript weather application using OpenWeather API.",
+      "tags": ["JavaScript", "HTML/CSS", "API"],
+      "link": "https://github.com"
+    },
+    {
+      "id": 2,
+      "title": "Sorting Algorithm Visualizer",
+      "description": "Interactive visual tool built to demonstrate bubble and merge sort.",
+      "tags": ["Java", "AP CSA", "Algorithms"],
+      "link": "https://github.com"
+    }
+  ]
+}
